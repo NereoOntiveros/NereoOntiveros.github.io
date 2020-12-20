@@ -279,6 +279,7 @@ p{
 #services .service-top{
     max-width: 500px;
     margin: 0 auto;
+    text-align: justify;
 }
 #services .service-bottom{
     display: flex;
@@ -428,6 +429,7 @@ p{
 }
 #about .col-right p{
     margin-bottom: 20px;
+    text-align: justify;
 }
 #about .col-right .cta{
     color: black;
